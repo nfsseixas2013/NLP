@@ -1,0 +1,3 @@
+[submodule "PIPELINE-sentiment-analysis"]
+	path = PIPELINE-sentiment-analysis
+	url = https://github.com/nfsseixas2013/PIPELINE-sentiment-analysis.git
