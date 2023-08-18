@@ -1,3 +1,6 @@
 [submodule "PIPELINE-sentiment-analysis"]
 	path = PIPELINE-sentiment-analysis
 	url = https://github.com/nfsseixas2013/PIPELINE-sentiment-analysis.git
+[submodule "hugging_face_basics"]
+	path = hugging_face_basics
+	url = https://github.com/nfsseixas2013/hugging_face_basics.git
